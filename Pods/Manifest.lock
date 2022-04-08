@@ -1,0 +1,22 @@
+PODS:
+  - Sentry (7.12.0):
+    - Sentry/Core (= 7.12.0)
+  - Sentry/Core (7.12.0)
+  - unicocheck-ios (2.2.1):
+    - Sentry
+
+DEPENDENCIES:
+  - unicocheck-ios (= 2.2.1)
+
+SPEC REPOS:
+  trunk:
+    - Sentry
+    - unicocheck-ios
+
+SPEC CHECKSUMS:
+  Sentry: d2f889ed77bd7f8c51b1934dbabddbc553790630
+  unicocheck-ios: ac30011dd99a3c93704f4db640bf1b6fcea33bcd
+
+PODFILE CHECKSUM: 8dd623735adda140dd512549696f777ae1f7b3b3
+
+COCOAPODS: 1.11.2
